@@ -53,7 +53,7 @@ The KMeans model segmented customers into 5 clusters, which can help businesses 
 ![Cluster Plot](images/cluster_plot.png)
 
 ### Pairplot:
-![Pairplot](images/pairplot.png)
+![Pairplot](images/pair_plot.png)
 
 ## Future Improvements
 - Try clustering with additional features (e.g., Age)
